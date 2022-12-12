@@ -67,4 +67,24 @@ we are following 4 steps to achieve the project goals:
 •	Analyzing and improving the obtained results.
 
 ## <a name="Results"></a> Results And Performance
+
+Histogram describing characteristics of data
+![image](https://github.com/gabhinavndrews/Heart-Disease-Predictor/blob/main/histogram.jpg)
+Bargraph describing heart disease frequency for ages
 ![image](https://github.com/gabhinavndrews/Heart-Disease-Predictor/blob/main/bargraph.jpg)
+Relativity Heatmap
+![image](https://github.com/gabhinavndrews/Heart-Disease-Predictor/blob/main/heatmap.jpg)
+Line graph Age vs Talach
+![image](https://github.com/gabhinavndrews/Heart-Disease-Predictor/blob/main/graph.jpg)
+Model accuracy before using binary model
+![image](https://github.com/gabhinavndrews/Heart-Disease-Predictor/blob/main/model accuracy bfr.jpg)
+Model accuracy after using binary model
+![image](https://github.com/gabhinavndrews/Heart-Disease-Predictor/blob/main/model accuracy aftr.jpg)
+Model loss before using binary model
+![image](https://github.com/gabhinavndrews/Heart-Disease-Predictor/blob/main/model loss bfr.jpg)
+Model loss after using binary model
+![image](https://github.com/gabhinavndrews/Heart-Disease-Predictor/blob/main/model loss aftr.jpg)
+Categorical model results
+![image](https://github.com/gabhinavndrews/Heart-Disease-Predictor/blob/main/Categorical model.jpg)
+Binary model results
+![image](https://github.com/gabhinavndrews/Heart-Disease-Predictor/blob/main/binary model.jpg)
