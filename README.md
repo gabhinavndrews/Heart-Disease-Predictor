@@ -69,7 +69,7 @@ we are following 4 steps to achieve the project goals:
 ## <a name="Results"></a> Results And Performance
 
 Histogram describing characteristics of data
-![image](https://github.com/gabhinavndrews/Heart-Disease-Predictor/blob/main/histogram.jpg)
+![image](https://github.com/gabhinavndrews/Heart-Disease-Predictor/blob/main/histogram.png)
 Bargraph describing heart disease frequency for ages
 ![image](https://github.com/gabhinavndrews/Heart-Disease-Predictor/blob/main/bargraph.jpg)
 Relativity Heatmap
@@ -77,14 +77,14 @@ Relativity Heatmap
 Line graph Age vs Talach
 ![image](https://github.com/gabhinavndrews/Heart-Disease-Predictor/blob/main/graph.jpg)
 Model accuracy before using binary model
-![image](https://github.com/gabhinavndrews/Heart-Disease-Predictor/blob/main/model accuracy bfr.jpg)
+![image](https://github.com/gabhinavndrews/Heart-Disease-Predictor/blob/10dc0a73c3568c5b2d2934b671e740b5638ac5e7/model%20accuracy%20befr.jpg)
 Model accuracy after using binary model
-![image](https://github.com/gabhinavndrews/Heart-Disease-Predictor/blob/main/model accuracy aftr.jpg)
+![image](https://github.com/gabhinavndrews/Heart-Disease-Predictor/blob/10dc0a73c3568c5b2d2934b671e740b5638ac5e7/model%20accuracy%20aftr.jpg)
 Model loss before using binary model
-![image](https://github.com/gabhinavndrews/Heart-Disease-Predictor/blob/main/model loss bfr.jpg)
+![image](https://github.com/gabhinavndrews/Heart-Disease-Predictor/blob/10dc0a73c3568c5b2d2934b671e740b5638ac5e7/model%20loss%20bfr.jpg)
 Model loss after using binary model
-![image](https://github.com/gabhinavndrews/Heart-Disease-Predictor/blob/main/model loss aftr.jpg)
+![image](https://github.com/gabhinavndrews/Heart-Disease-Predictor/blob/10dc0a73c3568c5b2d2934b671e740b5638ac5e7/model%20loss%20aftr.jpg)
 Categorical model results
-![image](https://github.com/gabhinavndrews/Heart-Disease-Predictor/blob/main/Categorical model.jpg)
+![image](https://github.com/gabhinavndrews/Heart-Disease-Predictor/blob/10dc0a73c3568c5b2d2934b671e740b5638ac5e7/Categorical%20model.jpg)
 Binary model results
-![image](https://github.com/gabhinavndrews/Heart-Disease-Predictor/blob/main/binary model.jpg)
+![image](https://github.com/gabhinavndrews/Heart-Disease-Predictor/blob/10dc0a73c3568c5b2d2934b671e740b5638ac5e7/binary%20model.jpg)
